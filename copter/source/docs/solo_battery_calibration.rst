@@ -6,6 +6,11 @@
 
 The Solo Smart Battery may need recalibration from time to time.  The following write up details how execute a recalibration of the BMS.
 
+.. warning::
+
+Do not use this process on a pack that is already damaged.  This process does not repair the pack in any way.
+
+
 
 1. Gently discharge the battery pack until it cuts off the first time (this is around 12V).
 2. Allow the pack the relax for at least 5 hours.  The pack's voltage will climb above 12V during this process.  **DO NOT TRY TO DISCHARGE THE PACK AGAIN.**  Damage to the battery may result.
